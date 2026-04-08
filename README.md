@@ -48,11 +48,3 @@ gcc multithreading.c -o multithreading -lpthread
 
 Make sure `text8.txt` (the enwik8 dataset renamed) is in the same directory as the executables.
 
-## Repository Structure
-
-```
-├── naive.c
-├── multiprocessing.c
-├── multithreading.c
-└── README.md
-```
